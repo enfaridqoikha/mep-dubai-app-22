@@ -1,1 +1,0 @@
-Place DEWA PDFs or Dubai code PDFs here. Keep filenames short. The app reads these from assets/pdfs/
